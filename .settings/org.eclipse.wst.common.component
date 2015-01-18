@@ -5,6 +5,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/DataCenter"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/BaseService"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/TestCase"/>
         <property name="context-root" value="CarShop-Server"/>
         <property name="java-output-path" value="/CarShop-Server/build/classes"/>
     </wb-module>
